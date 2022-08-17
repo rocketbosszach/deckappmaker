@@ -6,5 +6,5 @@ Place anywhere and execute from terminal. Deck App Maker uses default installati
 
 Other browsers and directories may be used but the script will need to be edited to reflect the desired file paths.
 
-#License
+# License
 GNU General Public License v3.0
